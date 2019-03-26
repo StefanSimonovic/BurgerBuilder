@@ -12,6 +12,7 @@ const buildControl = props => (
     >
       -
     </button>
+    <p className={classes.Quantity}>{props.ingredient}</p>
     <button className={classes.More} onClick={props.added}>
       +
     </button>
