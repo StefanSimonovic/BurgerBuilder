@@ -12,6 +12,7 @@ const orderSummary = props => {
       </li>
     );
   });
+
   return (
     <div className={classes.OrderSummary}>
       <h3>Your order</h3>
