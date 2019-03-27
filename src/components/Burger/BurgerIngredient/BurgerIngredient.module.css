@@ -115,13 +115,13 @@
   overflow: hidden;
   position: relative;
   margin: 1% auto;
-  width: 400px;
+  width: 90%;
   height: 20px;
 }
 
 .SaladInner {
   position: absolute;
-  width: 400px;
+  width: 100%;
   height: 15px;
   background: radial-gradient(
     16px,
